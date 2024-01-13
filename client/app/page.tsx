@@ -1,5 +1,3 @@
-import Image from 'next/image';
-
 export default function Home() {
 	return (
 		<main className='h-full top-0 right-0 flex flex-col w-96 bg-primary bg-opacity-20 backdrop-blur-sm text-base-content p-2 rounded-l-3xl gap-5'>
